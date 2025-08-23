@@ -1,6 +1,7 @@
 import express from "express";
 import dotenv from "dotenv";
 import logger from "./config/logger.js";
+import { dbconnectionwithmongoose } from "./config/db.js";
 
 
 dotenv.config();
@@ -14,6 +15,9 @@ app.get("/", (req, res) => {
 
 // Render will provide the port via env variable
 const PORT = process.env.PORT || 8000;
+
+ 
+dbconnectionwithmongoose()
 
 app.listen(PORT, () => {
   logger.info(`Server running on port ${PORT}`);
