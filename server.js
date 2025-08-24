@@ -3,6 +3,8 @@ import dotenv from "dotenv";
 import logger from "./config/logger.js";
 import { dbconnectionwithmongoose } from "./config/db.js";
 import cookieParser from "cookie-parser";
+import cors from "cors";
+
 
 
 dotenv.config();
@@ -24,10 +26,27 @@ import membershipRoutes from "./routes/membershipRoutes.js";
 app.use(express.json());
 app.use(cookieParser());
 
+// CORS configuration
+const ALLOWED_ORIGINS = [
+  "http://localhost:3000",        // Next.js dev
+  "https://home-workout-fitness.onrender.com"     // prod domain
+];
+
+app.use(cors({
+  origin: (origin, callback) => {
+    if (!origin || ALLOWED_ORIGINS.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error("Not allowed by CORS"));
+    }
+  },
+  credentials: true, // Allow cookies and credentials
+}));
+
 app.use("/api/auth", authRoutes);
 app.use("/api/membership", membershipRoutes);
 
- 
+
 dbconnectionwithmongoose()
 
 app.listen(PORT, () => {

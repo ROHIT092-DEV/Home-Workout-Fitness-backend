@@ -123,7 +123,7 @@ export const login = async (req, res) => {
 
    logger.info(accessToken, "access token");
 
-    return res.cookie("accessToken",accessToken).json({ success: true, accessToken });
+    return res.cookie("accessToken",accessToken).json({ success: true, accessToken, user });
   } catch (error) {
     logger.error(error);
     return res.status(500).json({ success: false, message: "Server error" });
@@ -195,7 +195,7 @@ export async function me(req, res) {
     );
     if (!user)
       return res.status(404).json({ success: false, message: "Not found" });
-    return res.json({ success: true, data: user });
+    return res.json({user:user});
   } catch (error) {
     logger.error(error);
     return res.status(500).json({
