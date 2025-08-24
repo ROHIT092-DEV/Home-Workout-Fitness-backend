@@ -452,3 +452,142 @@
 [2025-08-24 08:34:30] [32minfo[39m: Database connected successfully
 [2025-08-24 08:35:57] [32minfo[39m: true
 [2025-08-24 08:35:57] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWE4MTYzNjAyZTUzZTkzNzhjNDEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjAwNDc1NywiZXhwIjoxNzU2MDA1NjU3fQ.lpPFJBNfDrQjpbvSzVafEmdc9vIYssp_uU0xe27wyEU
+[2025-08-24 08:43:16] [32minfo[39m: Server running on port 5001
+[2025-08-24 08:43:16] [32minfo[39m: Database connected successfully
+[2025-08-24 08:46:21] [32minfo[39m: Server running on port 5001
+[2025-08-24 08:46:21] [32minfo[39m: Database connected successfully
+[2025-08-24 08:47:13] [32minfo[39m: Server running on port 5001
+[2025-08-24 08:47:13] [32minfo[39m: Database connected successfully
+[2025-08-24 08:47:32] [32minfo[39m: Server running on port 5001
+[2025-08-24 08:47:32] [32minfo[39m: Database connected successfully
+[2025-08-24 08:51:30] [32minfo[39m: Server running on port 5001
+[2025-08-24 08:51:30] [32minfo[39m: Database connected successfully
+[2025-08-24 08:52:18] [32minfo[39m: Server running on port 5001
+[2025-08-24 08:52:18] [32minfo[39m: Database connected successfully
+[2025-08-24 08:52:59] [32minfo[39m: Server running on port 5001
+[2025-08-24 08:52:59] [32minfo[39m: Database connected successfully
+[2025-08-24 08:53:15] [32minfo[39m: Server running on port 5001
+[2025-08-24 08:53:15] [32minfo[39m: Database connected successfully
+[2025-08-24 08:58:56] [32minfo[39m: Server running on port 5001
+[2025-08-24 08:58:56] [32minfo[39m: Database connected successfully
+[2025-08-24 08:59:13] [32minfo[39m: Server running on port 5001
+[2025-08-24 08:59:13] [32minfo[39m: Database connected successfully
+[2025-08-24 09:00:29] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:00:29] [32minfo[39m: Database connected successfully
+[2025-08-24 09:00:59] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:00:59] [32minfo[39m: Database connected successfully
+[2025-08-24 09:01:05] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:01:05] [32minfo[39m: Database connected successfully
+[2025-08-24 09:04:16] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:04:16] [32minfo[39m: Database connected successfully
+[2025-08-24 09:05:34] [32minfo[39m: true
+[2025-08-24 09:05:34] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YTlkZjMzODQ5NWQ3YmY0N2EwYjg2ZiIsInJvbGUiOiJtZW1iZXIiLCJpYXQiOjE3NTYwMDY1MzQsImV4cCI6MTc1NjAwNzQzNH0.NgbviXCUc7ay2LgnuyH2a5M_Jolwd-ipH329gzEVNKA
+[2025-08-24 09:05:58] [32minfo[39m: true
+[2025-08-24 09:05:58] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWE4MTYzNjAyZTUzZTkzNzhjNDEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjAwNjU1OCwiZXhwIjoxNzU2MDA3NDU4fQ.Uwbn1Wo-NFISrRKrGj-pAb95I_Rre6cv7g5i3wUUZL8
+[2025-08-24 09:08:18] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:08:18] [32minfo[39m: Database connected successfully
+[2025-08-24 09:09:34] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:09:34] [32minfo[39m: Database connected successfully
+[2025-08-24 09:09:44] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:09:44] [32minfo[39m: Database connected successfully
+[2025-08-24 09:10:43] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:10:43] [32minfo[39m: Database connected successfully
+[2025-08-24 09:11:17] [31merror[39m: Error creating membership plan: MembershipPlan is not defined
+[2025-08-24 09:11:50] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:11:50] [32minfo[39m: Database connected successfully
+[2025-08-24 09:11:52] [32minfo[39m: Membership plan created: Monthly Plan
+[2025-08-24 09:12:25] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:12:25] [32minfo[39m: Database connected successfully
+[2025-08-24 09:13:26] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:13:26] [32minfo[39m: Database connected successfully
+[2025-08-24 09:13:57] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:13:57] [32minfo[39m: Database connected successfully
+[2025-08-24 09:14:55] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:14:55] [32minfo[39m: Database connected successfully
+[2025-08-24 09:15:08] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:15:08] [32minfo[39m: Database connected successfully
+[2025-08-24 09:15:39] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:15:39] [32minfo[39m: Database connected successfully
+[2025-08-24 09:15:48] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:15:48] [32minfo[39m: Database connected successfully
+[2025-08-24 09:16:03] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:16:03] [32minfo[39m: Database connected successfully
+[2025-08-24 09:16:09] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:16:09] [32minfo[39m: Database connected successfully
+[2025-08-24 09:16:20] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:16:20] [32minfo[39m: Database connected successfully
+[2025-08-24 09:16:36] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:16:36] [32minfo[39m: Database connected successfully
+[2025-08-24 09:16:58] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:16:58] [32minfo[39m: Database connected successfully
+[2025-08-24 09:17:26] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:17:26] [32minfo[39m: Database connected successfully
+[2025-08-24 09:17:59] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:17:59] [32minfo[39m: Database connected successfully
+[2025-08-24 09:20:48] [32minfo[39m: true
+[2025-08-24 09:20:48] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YTlkZWRjYWYyNGE4OWVlYzI3OTY3YiIsInJvbGUiOiJtZW1iZXIiLCJpYXQiOjE3NTYwMDc0NDgsImV4cCI6MTc1NjAwODM0OH0.ZYM9ehCkKohxjDy39FSJ0JHQXwIRAMfWcFa7S6_4GCY
+[2025-08-24 09:22:15] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:22:15] [32minfo[39m: Database connected successfully
+[2025-08-24 09:22:22] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:22:22] [32minfo[39m: Database connected successfully
+[2025-08-24 09:22:53] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:22:53] [32minfo[39m: Database connected successfully
+[2025-08-24 09:23:11] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:23:11] [32minfo[39m: Database connected successfully
+[2025-08-24 09:23:16] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:23:16] [32minfo[39m: Database connected successfully
+[2025-08-24 09:24:06] [32minfo[39m: User undefined is attempting to subscribe to plan 68aa8a00185254260ce2a631
+[2025-08-24 09:24:06] [31merror[39m: Error subscribing to plan: UserMembership is not defined
+[2025-08-24 09:24:54] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:24:54] [32minfo[39m: Database connected successfully
+[2025-08-24 09:24:58] [32minfo[39m: User undefined is attempting to subscribe to plan 68aa8a00185254260ce2a631
+[2025-08-24 09:24:58] [31merror[39m: Error subscribing to plan: UserMembership validation failed: userId: Path `userId` is required.
+[2025-08-24 09:27:11] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:27:11] [32minfo[39m: Database connected successfully
+[2025-08-24 09:27:14] [32minfo[39m: undefined
+[2025-08-24 09:27:14] [32minfo[39m: User undefined is attempting to subscribe to plan 68aa8a00185254260ce2a631
+[2025-08-24 09:27:14] [31merror[39m: Error subscribing to plan: UserMembership validation failed: userId: Path `userId` is required.
+[2025-08-24 09:28:20] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:28:20] [32minfo[39m: Database connected successfully
+[2025-08-24 09:28:23] [32minfo[39m: 68a9dedcaf24a89eec27967b
+[2025-08-24 09:28:23] [32minfo[39m: User undefined is attempting to subscribe to plan 68aa8a00185254260ce2a631
+[2025-08-24 09:28:23] [31merror[39m: Error subscribing to plan: UserMembership validation failed: userId: Path `userId` is required.
+[2025-08-24 09:29:38] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:29:38] [32minfo[39m: Database connected successfully
+[2025-08-24 09:29:39] [32minfo[39m: 68aa8a00185254260ce2a631
+[2025-08-24 09:29:39] [32minfo[39m: User undefined is attempting to subscribe to plan 68aa8a00185254260ce2a631
+[2025-08-24 09:29:39] [31merror[39m: Error subscribing to plan: UserMembership validation failed: userId: Path `userId` is required.
+[2025-08-24 09:30:07] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:30:07] [32minfo[39m: Database connected successfully
+[2025-08-24 09:30:09] [32minfo[39m: 68aa8a00185254260ce2a631
+[2025-08-24 09:30:09] [32minfo[39m: User 68a9dedcaf24a89eec27967b is attempting to subscribe to plan 68aa8a00185254260ce2a631
+[2025-08-24 09:30:09] [31merror[39m: Error subscribing to plan: UserMembership validation failed: userId: Path `userId` is required.
+[2025-08-24 09:31:20] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:31:20] [32minfo[39m: Database connected successfully
+[2025-08-24 09:31:27] [32minfo[39m: 68aa8a00185254260ce2a631
+[2025-08-24 09:31:27] [32minfo[39m: User 68a9dedcaf24a89eec27967b is attempting to subscribe to plan 68aa8a00185254260ce2a631
+[2025-08-24 09:31:27] [32minfo[39m: User undefined subscribed to plan Monthly Plan
+[2025-08-24 09:32:45] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:32:45] [32minfo[39m: Database connected successfully
+[2025-08-24 09:33:04] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:33:04] [32minfo[39m: Database connected successfully
+[2025-08-24 09:33:34] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:33:35] [32minfo[39m: Database connected successfully
+[2025-08-24 09:34:31] [32minfo[39m: true
+[2025-08-24 09:34:31] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YTlkZWRjYWYyNGE4OWVlYzI3OTY3YiIsInJvbGUiOiJtZW1iZXIiLCJpYXQiOjE3NTYwMDgyNzEsImV4cCI6MTc1NjAwOTE3MX0.-YXyP2baD6QuI46iCczEq5RH_rePlXiOjkohNXGgc9w
+[2025-08-24 09:36:46] [32minfo[39m: true
+[2025-08-24 09:36:46] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWE4MTYzNjAyZTUzZTkzNzhjNDEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjAwODQwNiwiZXhwIjoxNzU2MDA5MzA2fQ.kTz2UM79MU-0qV_ui503vZ3ymaI3GJkmVzGwtLAI5Yo
+[2025-08-24 09:38:56] [32minfo[39m: true
+[2025-08-24 09:38:56] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWE4MTYzNjAyZTUzZTkzNzhjNDEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjAwODUzNiwiZXhwIjoxNzU2MDA5NDM2fQ.zy1AQo0HLibSorf2Jw8F86CdZuErNm1m7fdflESadoQ
+[2025-08-24 09:39:16] [32minfo[39m: 68aa8a00185254260ce2a631
+[2025-08-24 09:39:16] [32minfo[39m: User 68aa8163602e53e9378c410e is attempting to subscribe to plan 68aa8a00185254260ce2a631
+[2025-08-24 09:39:16] [32minfo[39m: User undefined subscribed to plan Monthly Plan
+[2025-08-24 09:44:38] [32minfo[39m: true
+[2025-08-24 09:44:38] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWE4MTYzNjAyZTUzZTkzNzhjNDEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjAwODg3OCwiZXhwIjoxNzU2MDA5Nzc4fQ.KlNg6lWoprdiv291BGqKRlstv172Mi9aDQEqh3zzIqw
+[2025-08-24 09:45:47] [32minfo[39m: Server running on port 5001
+[2025-08-24 09:45:47] [32minfo[39m: Database connected successfully
+[2025-08-24 09:46:00] [32minfo[39m: 68aa8a00185254260ce2a631
+[2025-08-24 09:46:00] [32minfo[39m: User 68aa8163602e53e9378c410e is attempting to subscribe to plan 68aa8a00185254260ce2a631
+[2025-08-24 09:46:00] [32minfo[39m: User undefined subscribed to plan Monthly Plan
+[2025-08-24 10:04:20] [32minfo[39m: Server running on port 5001
+[2025-08-24 10:04:20] [32minfo[39m: Database connected successfully

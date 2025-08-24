@@ -19,11 +19,13 @@ const PORT = process.env.PORT || 8000;
 
 
 import authRoutes from "./routes/auth.routes.js";
+import membershipRoutes from "./routes/membershipRoutes.js";
 
 app.use(express.json());
 app.use(cookieParser());
 
 app.use("/api/auth", authRoutes);
+app.use("/api/membership", membershipRoutes);
 
  
 dbconnectionwithmongoose()

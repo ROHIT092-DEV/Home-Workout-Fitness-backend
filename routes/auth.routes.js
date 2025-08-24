@@ -25,4 +25,6 @@ router.put("/user/:id", requireAuth, updateUser)
 router.get("/users", requireAuth, requireRole("admin"), listUsers);
 
 
+
+
 export default router;
