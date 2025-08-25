@@ -28,8 +28,9 @@ app.use(cookieParser());
 
 // CORS configuration
 const ALLOWED_ORIGINS = [
-  "http://localhost:3000",        // Next.js dev
+  // "http://localhost:3000",        // Next.js dev
   "https://home-workout-fitness.onrender.com"     // prod domain
+
 ];
 
 app.use(cors({
