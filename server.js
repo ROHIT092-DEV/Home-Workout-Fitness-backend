@@ -27,22 +27,29 @@ app.use(express.json());
 app.use(cookieParser());
 
 // CORS configuration
-const ALLOWED_ORIGINS = [
-  // "http://localhost:3000",        // Next.js dev
-  "https://home-workout-fitness.onrender.com"     // prod domain
+// const ALLOWED_ORIGINS = [
+//   "http://localhost:3000",        // Next.js dev
+//   // "https://home-workout-fitness.onrender.com"     // prod domain
 
-];
+// ];
+
 
 app.use(cors({
-  origin: (origin, callback) => {
-    if (!origin || ALLOWED_ORIGINS.includes(origin)) {
-      callback(null, true);
-    } else {
-      callback(new Error("Not allowed by CORS"));
-    }
-  },
-  credentials: true, // Allow cookies and credentials
+  origin: true, // allow any origin
+  credentials: true, // allow cookies / auth headers
 }));
+
+
+// app.use(cors({
+//   origin: (origin, callback) => {
+//     if (!origin || ALLOWED_ORIGINS.includes(origin)) {
+//       callback(null, true);
+//     } else {
+//       callback(new Error("Not allowed by CORS"));
+//     }
+//   },
+//   credentials: true, // Allow cookies and credentials
+// }));
 
 app.use("/api/auth", authRoutes);
 app.use("/api/membership", membershipRoutes);
