@@ -818,3 +818,77 @@
 [2025-08-29 09:51:38] [32minfo[39m: Database connected successfully
 [2025-08-29 09:51:50] [32minfo[39m: Server running on port 5001
 [2025-08-29 09:51:53] [32minfo[39m: Database connected successfully
+[2025-08-29 10:45:50] [32minfo[39m: Server running on port 5001
+[2025-08-29 10:45:53] [32minfo[39m: Database connected successfully
+[2025-08-29 10:45:53] [32minfo[39m: true
+[2025-08-29 10:45:54] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjQ0NDU1MywiZXhwIjoxNzU2NDQ4MTUzfQ.i-1O-WOhlKBl3nxEgmnjvKwww6vdC9v1S3opjcQzBKQ
+[2025-08-29 22:31:40] [32minfo[39m: true
+[2025-08-29 22:31:40] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjQ4NjkwMCwiZXhwIjoxNzU2NDkwNTAwfQ.J7OB1FABGZKmiuibDtbRpgM1qA7Sk49bdgS8X-SMiVA
+[2025-08-29 22:32:03] [32minfo[39m: Server running on port 5001
+[2025-08-29 22:32:04] [32minfo[39m: Server running on port 5001
+[2025-08-29 22:32:06] [32minfo[39m: Database connected successfully
+[2025-08-29 22:32:37] [32minfo[39m: true
+[2025-08-29 22:32:37] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjQ4Njk1NywiZXhwIjoxNzU2NDkwNTU3fQ.yzbejyyrqXrzwA6IdAKEdZVYvqhQapAHtbfXuDRzKm0
+[2025-08-29 22:58:59] [32minfo[39m: true
+[2025-08-29 22:58:59] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjQ4ODUzOSwiZXhwIjoxNzU2NDkyMTM5fQ.Tmvi2qrwTtxE16M12uL7Mw_D4Vgq1cVv-LrF1JO7UDk
+[2025-08-29 22:59:19] [32minfo[39m: 68b1263b4294cb7fe66cd8bf
+[2025-08-29 22:59:19] [32minfo[39m: User 68ac19ba0f0a30b6bfada821 is attempting to subscribe to plan 68b1263b4294cb7fe66cd8bf
+[2025-08-29 22:59:19] [32minfo[39m: User undefined subscribed to plan 3 Plan
+[2025-08-29 23:18:06] [32minfo[39m: true
+[2025-08-29 23:18:06] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjQ4OTY4NiwiZXhwIjoxNzU2NDkzMjg2fQ.dSqtpocu2oZLiDfdq97A0adRbc1gzLWgPEKV-4WzG7E
+[2025-08-30 07:33:39] [32minfo[39m: true
+[2025-08-30 07:33:39] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjUxOTQxOSwiZXhwIjoxNzU2NTIzMDE5fQ.z_XLePOUtW0Pe9WbeGWt7TU63BIGF7w4TQgwQO2njVw
+[2025-08-30 07:38:45] [32minfo[39m: Server running on port 5001
+[2025-08-30 07:38:50] [32minfo[39m: Database connected successfully
+[2025-08-30 08:43:19] [32minfo[39m: true
+[2025-08-30 08:43:19] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjUyMzU5OSwiZXhwIjoxNzU2NTI3MTk5fQ.Em48Q01kwXo8VNTOoqm69Tqw5SlXxeMbxSix4SqVAO0
+[2025-08-30 08:46:06] [32minfo[39m: true
+[2025-08-30 08:46:06] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjUyMzc2NiwiZXhwIjoxNzU2NTI3MzY2fQ.XqtMR8vTDqJ394Aanpythp2Zd7dRf4hLdK9BqVrnp8A
+[2025-08-30 08:49:04] [32minfo[39m: Server running on port 5001
+[2025-08-30 08:49:06] [32minfo[39m: Database connected successfully
+[2025-08-30 08:50:15] [32minfo[39m: Server running on port 5001
+[2025-08-30 08:50:20] [32minfo[39m: Database connected successfully
+[2025-08-30 08:50:33] [32minfo[39m: true
+[2025-08-30 08:50:33] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxN2M3Mjg3ZDlhY2UxNWExYzNhMyIsInJvbGUiOiJtZW1iZXIiLCJpYXQiOjE3NTY1MjQwMzMsImV4cCI6MTc1NjUyNzYzM30.xMWZPsTsIs4gX2B4ZguPB3GfXT5Gc6zWSanGEAZbKuk
+[2025-08-30 08:50:56] [32minfo[39m: true
+[2025-08-30 08:50:57] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjUyNDA1NiwiZXhwIjoxNzU2NTI3NjU2fQ.8D95Y413_Z0Pvc5trpjIEMeDK1rczZyVquzHk8F_7oY
+[2025-08-30 08:53:27] [32minfo[39m: Server running on port 5001
+[2025-08-30 08:53:28] [32minfo[39m: Database connected successfully
+[2025-08-30 08:54:31] [32minfo[39m: true
+[2025-08-30 08:54:31] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjUyNDI3MSwiZXhwIjoxNzU2NTI3ODcxfQ.oomd8QmKrHvCkKDFoN2QviWHQe7t3SaqzmfD7-7KATA
+[2025-08-30 08:54:42] [32minfo[39m: 68ac17c7287d9ace15a1c3a3
+[2025-08-30 08:54:42] [32minfo[39m: undefined
+[2025-08-30 09:07:03] [32minfo[39m: true
+[2025-08-30 09:07:03] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjUyNTAyMywiZXhwIjoxNzU2NTI4NjIzfQ.T-2dA_eBqcjZ-XKv7A0VvUxH9RRJvGGLUsdRFEokgzo
+[2025-08-30 17:07:50] [32minfo[39m: true
+[2025-08-30 17:07:50] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjU1Mzg3MCwiZXhwIjoxNzU2NTU3NDcwfQ.F51nWU6ueKIS1Bh7e0nQWin_eOcgkJPsFkokXdHcoHw
+[2025-08-30 17:34:33] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:34:35] [32minfo[39m: Database connected successfully
+[2025-08-30 17:34:41] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:34:43] [32minfo[39m: Database connected successfully
+[2025-08-30 17:35:36] [32minfo[39m: true
+[2025-08-30 17:35:36] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjU1NTUzNiwiZXhwIjoxNzU2NTU5MTM2fQ.6IFVyhggiajqixg5wAk4WPWGhdboYQ5PXcnQl-xahhs
+[2025-08-30 17:37:26] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:37:28] [32minfo[39m: Database connected successfully
+[2025-08-30 17:37:53] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:37:55] [32minfo[39m: Database connected successfully
+[2025-08-30 17:39:11] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:39:13] [32minfo[39m: Database connected successfully
+[2025-08-30 17:39:23] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:39:25] [32minfo[39m: Database connected successfully
+[2025-08-30 17:39:29] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:39:31] [32minfo[39m: Database connected successfully
+[2025-08-30 17:39:59] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:40:01] [32minfo[39m: Database connected successfully
+[2025-08-30 17:40:05] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:40:07] [32minfo[39m: Database connected successfully
+[2025-08-30 17:40:20] [32minfo[39m: true
+[2025-08-30 17:40:21] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjU1NTgyMCwiZXhwIjoxNzU2NTU5NDIwfQ.iTxf4fn25FT-RNrUtHkp8PzxOXEliNXvfeHHLmdYEBU
+[2025-08-30 17:40:29] [31merror[39m: Error subscribing to plan: params is not defined
+[2025-08-30 17:40:59] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:41:00] [32minfo[39m: 68aa8a00185254260ce2a631
+[2025-08-30 17:41:00] [32minfo[39m: User userId is attempting to subscribe to plan 68aa8a00185254260ce2a631
+[2025-08-30 17:41:01] [32minfo[39m: Database connected successfully
+[2025-08-30 17:42:45] [32minfo[39m: 68afcf1f0949a8f2608bdd25
+[2025-08-30 17:42:45] [32minfo[39m: User 68ac199b287d9ace15a1c3a6 is attempting to subscribe to plan 68afcf1f0949a8f2608bdd25
+[2025-08-30 17:42:45] [32minfo[39m: User undefined subscribed to plan Monthly Plan
