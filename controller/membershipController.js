@@ -1,6 +1,7 @@
 import logger from '../config/logger.js';
 import { MembershipPlan } from '../model/MembershipPlan.js';
 import { UserMembership } from '../model/UserMembership.js';
+import mongoose from 'mongoose';
 
 export const createPlan = async (req, res) => {
   try {
@@ -36,7 +37,7 @@ export const createPlan = async (req, res) => {
 export const subscribePlan = async (req, res) => {
   try {
     const { planId } = req.body;
-    const userId = req.params.userId;
+    const userId = params.userId;
 
     logger.info(planId, 'Plan ID from request body');
 
@@ -83,8 +84,15 @@ export const subscribePlan = async (req, res) => {
 
 // ✅ Fetch user memberships
 export const getUserMemberships = async (req, res) => {
+  const userId = req.params.userId;
+  logger.info(`User Id is ` + userId);
+
   try {
-    const memberships = await UserMembership.find({ userId: req.params.userId })
+    if (!mongoose.Types.ObjectId.isValid(userId)) {
+      return res.status(400).json({ message: 'Invalid userId' });
+    }
+
+    const memberships = await UserMembership.find({ userId: userId })
       .populate('planId', 'name price durationInDays description')
       .populate('userId', 'fullName email');
 

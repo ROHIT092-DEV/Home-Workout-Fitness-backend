@@ -892,3 +892,61 @@
 [2025-08-30 17:42:45] [32minfo[39m: 68afcf1f0949a8f2608bdd25
 [2025-08-30 17:42:45] [32minfo[39m: User 68ac199b287d9ace15a1c3a6 is attempting to subscribe to plan 68afcf1f0949a8f2608bdd25
 [2025-08-30 17:42:45] [32minfo[39m: User undefined subscribed to plan Monthly Plan
+[2025-08-30 17:43:10] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:43:11] [32minfo[39m: Database connected successfully
+[2025-08-30 17:43:41] [32minfo[39m: true
+[2025-08-30 17:43:41] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOTliMjg3ZDlhY2UxNWExYzNhNiIsInJvbGUiOiJtZW1iZXIiLCJpYXQiOjE3NTY1NTYwMjEsImV4cCI6MTc1NjU1OTYyMX0.DuphxJqL0LpYK48yxVqfWU2s80d3GlQaEPyYf-U0KFg
+[2025-08-30 17:44:13] [32minfo[39m: true
+[2025-08-30 17:44:13] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjU1NjA1MywiZXhwIjoxNzU2NTU5NjUzfQ.PazfUaH8BWRKnfXN1wv-Yegkmx_SKK6bXqdc_qJ1ZW8
+[2025-08-30 17:44:56] [32minfo[39m: Server running on port 5001
+[2025-08-30 17:44:58] [32minfo[39m: Database connected successfully
+[2025-08-30 18:07:21] [32minfo[39m: true
+[2025-08-30 18:07:21] [32minfo[39m: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YWMxOWJhMGYwYTMwYjZiZmFkYTgyMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1NjU1NzQ0MSwiZXhwIjoxNzU2NTYxMDQxfQ.pjx0-L_rp4Zfc93SNlX84cpb3HNwVpaF3M2HxuLRcLI
+[2025-08-30 18:09:16] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:09:18] [32minfo[39m: Database connected successfully
+[2025-08-30 18:09:31] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:09:32] [32minfo[39m: Database connected successfully
+[2025-08-30 18:09:48] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:09:50] [32minfo[39m: Database connected successfully
+[2025-08-30 18:10:31] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:10:33] [32minfo[39m: Database connected successfully
+[2025-08-30 18:10:53] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:10:55] [32minfo[39m: Database connected successfully
+[2025-08-30 18:10:56] [32minfo[39m: user id isundefined
+[2025-08-30 18:11:02] [32minfo[39m: user id isundefined
+[2025-08-30 18:11:09] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:11:09] [32minfo[39m: user id isundefined
+[2025-08-30 18:11:10] [32minfo[39m: Database connected successfully
+[2025-08-30 18:11:13] [32minfo[39m: user id isundefined
+[2025-08-30 18:11:45] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:11:46] [32minfo[39m: Database connected successfully
+[2025-08-30 18:11:50] [32minfo[39m: user id isundefined
+[2025-08-30 18:12:18] [32minfo[39m: user id isundefined
+[2025-08-30 18:12:55] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:12:57] [32minfo[39m: Database connected successfully
+[2025-08-30 18:13:31] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:13:32] [32minfo[39m: Database connected successfully
+[2025-08-30 18:13:51] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:13:51] [32minfo[39m: User Id is 68ac199b287d9ace15a1c3a6
+[2025-08-30 18:13:53] [32minfo[39m: Database connected successfully
+[2025-08-30 18:14:15] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:14:16] [32minfo[39m: Database connected successfully
+[2025-08-30 18:14:20] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:14:22] [32minfo[39m: Database connected successfully
+[2025-08-30 18:14:23] [32minfo[39m: User Id is 68ac199b287d9ace15a1c3a6
+[2025-08-30 18:14:30] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:14:30] [32minfo[39m: User Id is 68ac199b287d9ace15a1c3a6
+[2025-08-30 18:14:32] [32minfo[39m: Database connected successfully
+[2025-08-30 18:14:51] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:14:51] [32minfo[39m: User Id is 68ac199b287d9ace15a1c3a6
+[2025-08-30 18:14:52] [32minfo[39m: Database connected successfully
+[2025-08-30 18:14:57] [32minfo[39m: Server running on port 5001
+[2025-08-30 18:14:59] [32minfo[39m: Database connected successfully
+[2025-08-30 18:15:05] [32minfo[39m: User Id is 68ac199b287d9ace15a1c3a6
+[2025-08-30 18:16:45] [32minfo[39m: User Id is 68ac199b287d9ace15a1c3a6
+[2025-08-30 18:19:07] [32minfo[39m: User Id is 68ac199b287d9ace15a1c3a6
+[2025-08-30 18:19:12] [32minfo[39m: User Id is 68ac199b287d9ace15a1c3a6
+[2025-08-30 18:19:24] [32minfo[39m: User Id is 68ac19ba0f0a30b6bfada821
+[2025-08-30 18:19:24] [32minfo[39m: User Id is 68ac19ba0f0a30b6bfada821
+[2025-08-30 18:19:42] [32minfo[39m: User Id is 68ac17c7287d9ace15a1c3a3
+[2025-08-30 18:19:42] [32minfo[39m: User Id is 68ac17c7287d9ace15a1c3a3
